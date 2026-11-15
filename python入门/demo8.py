@@ -1,0 +1,10 @@
+print(1+1)
+print(1-1)
+print(1*2)
+print(1/2)
+print(1//2)
+print(1.0//2)#有浮点数则输出浮点数
+print(2**10)
+print(16000<18000)
+print("Hello"*5)
+print("Hello"+str(1))
